@@ -1,0 +1,84 @@
+.buynow{
+  padding: 66px 0 68px;
+  text-align: center;
+  background: #FF2640;
+}
+.buynow h5{
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #fff;
+  max-width: 775px;
+  margin: 0 auto;
+  padding-bottom: 22px;
+}
+.buynow p{
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #fff;
+  margin-bottom: 30px;
+  }
+.buynow a.btn-buy{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #FFC107;
+  border-radius: 44px;
+  max-width: 400px;
+  width: 100%;
+  padding: 20px;
+  font-size: 32px;
+  line-height: 38px;
+  font-weight: 500;
+  color: #101112;
+  margin: 0 auto;
+  transition: 0.3s all ease;
+}
+.buynow a.btn-buy:focus{
+  text-decoration: none;
+}
+.buynow a.btn-buy:hover{
+  text-decoration: none;
+  background: #fff;
+}
+.requirements{
+  padding: 80px 0 78px;
+  text-align: center;
+  background: #fff;
+}
+.requirements h5{
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 500;
+  color: #101112;
+  margin: 0 0 8px;
+}
+.requirements p{
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #262829;
+  margin-bottom: 42px;
+}
+.requirements h6{
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #090909;
+  margin: 0;
+}
+.requirements h6 a.cntct-sprt{
+  color: #4AB7E8;
+  transition: 0.3s all ease;
+}
+.requirements h6 a.cntct-sprt:hover{
+  color: #FF2640;
+}
+.requirements h6 a.cntct-sprt:hover, .requirements h6 a.cntct-sprt:focus{
+  text-decoration: none;
+}
+.page-link.active {
+  background: red;
+  color: #fff;
+}

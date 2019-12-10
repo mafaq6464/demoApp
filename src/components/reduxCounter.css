@@ -1,0 +1,35 @@
+.redux-counter{
+    padding: 20px 0;
+    border-top: 1px dashed #000;
+    border-bottom: 1px dashed #000;
+}
+.redux-counter h3{
+    font-size: 24px;
+    line-height: 30px;
+    color: #fff;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 20px 0;
+    background: orange;
+}
+.redux-counter ul{
+    padding: 20px 0;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+.redux-counter ul li{
+    margin: 0 15px;
+}
+.redux-counter ul li button{
+    background: #fff;
+    box-shadow: 0 0 6px rgba(0,0,0,0.6);
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    padding: 8px;
+    min-width: 150px;
+    text-transform: uppercase;
+    color: #000;
+}

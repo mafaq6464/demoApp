@@ -1,0 +1,22 @@
+.header-wrapper{
+    padding: 20px 10px;
+    width: 100%;
+    background: #2e2e2e;
+}
+.header-wrapper ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.dnone {
+    display: none !important;
+}
+.header-wrapper ul li a.header-link{
+    color: #fff;
+    font-size: 16px;
+    line-break: 22px;
+    font-weight: 600;
+    text-decoration: uppercase;
+}
